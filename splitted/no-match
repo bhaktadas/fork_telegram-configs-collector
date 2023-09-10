@@ -1,0 +1,7 @@
+#Non-Adaptive Configurations
+ss://Og==@:#SHADOWSOCKS
+trojan://@127.0.0.1:1080?security=&type=tcp#TROJAN
+vless://c57c726e-d8fa-46e5-8eca-9476ee43d0f2@#VLESS
+ss://Og==@:#SHADOWSOCKS
+trojan://@127.0.0.1:1080?security=&type=tcp#TROJAN
+vless://c57c726e-d8fa-46e5-8eca-9476ee43d0f2@#VLESS
